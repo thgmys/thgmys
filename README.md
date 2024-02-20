@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   </td><td valign="top" width="35%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thgmys)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thgmys)](https://github.com/thgmys/github-readme-stats)
 </td></tr></table>
 
 <p align="center"> 
