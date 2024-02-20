@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table><tr><td valign="top" width="65%">
+  
+![thgmys's GitHub stats](https://github-readme-stats.vercel.app/api?username=thgmys&show_icons=true&theme=radical)
+
+  </td><td valign="top" width="35%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thgmys)](https://github.com/anuraghazra/github-readme-stats)
+</td></tr></table>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thgmys/count.svg" />
+</p>
+
+
+<!--
+<table><tr><td valign="top" width="33%">
+
+### Recent releases
+
+</td><td valign="top" width="34%">
+
+### On my blog
+
+</td><td valign="top" width="33%">
+
+### TIL
+
+</td></tr></table>
+-->
